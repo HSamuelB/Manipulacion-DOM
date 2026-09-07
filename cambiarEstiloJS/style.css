@@ -1,0 +1,11 @@
+.caja{
+    padding: 20px;
+    background-color: #eceefb;
+    border-radius: 8px;
+    transition: background-color 0.3s;
+}
+
+.resaltado{
+    border: 3px solid orange;
+    font-weight: bold;
+}
